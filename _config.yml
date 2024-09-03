@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Yancy Zimmerman
 description: Home page of Yancy Zimmerman
 show_downloads: false
-linkedin: linkedin.com/in/yancyzimmerman
+linkedin: https://linkedin.com/in/yancyzimmerman
 # google_analytics: [Your Google Analytics tracking ID]
