@@ -2,6 +2,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: Yancy Zimmerman
 description: Home page of Yancy Zimmerman
+subhead: Your friendly neighborhood strategist
 show_downloads: false
 linkedin: https://linkedin.com/in/yancyzimmerman
 # google_analytics: [Your Google Analytics tracking ID]
